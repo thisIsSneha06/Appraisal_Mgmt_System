@@ -53,9 +53,9 @@ Username: atyagi@mail.com
 password: atyagi123
 
 # Note: 
-All employees and evaluators details incuding username/email are in the database table
-Username syntax: first letter of firstname + lastname + @mail.com
-And Password syntax: first letter of firstname + lastname + 123
+All employees and evaluators details including username/email are in the database table.
+Username syntax: first letter of firstname + lastname + @mail.com.
+And Password syntax: first letter of firstname + lastname + 123.
 
 Example: Employee name: Emily Denn
 Username: edenn@mail.com
