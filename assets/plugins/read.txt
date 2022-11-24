@@ -1,1 +1,1 @@
-
+Unrar the plugins.rar in plugins folder
